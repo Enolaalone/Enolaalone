@@ -1,8 +1,6 @@
+![Metrics](/github-metrics.svg)
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
-![Metrics](/github-metrics.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enolaalone/Enolaalone/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enolaalone/Enolaalone/output/github-contribution-grid-snake.svg">
