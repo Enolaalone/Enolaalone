@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+![Metrics](/github-metrics.svg)   
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 <picture>
